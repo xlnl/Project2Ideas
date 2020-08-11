@@ -16,7 +16,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 Make a PR when you're done!
 
---
+---
 
 ## Part 2
 
