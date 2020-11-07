@@ -19,7 +19,7 @@ I was priviledged to see their work in motion when I was leading a research and 
 
 The Vietnam War is over but unexploded bombs and cluster munitions remain to this very day, affecting the lives of children and farmers who live in those areas. 
 
-It's a public health, environmental, and economic challenge to growth in Vietnam, among other counties including Nigeria, Laos, Angola, etc. 
+It's a public health, environmental, and economic challenge to growth in Vietnam, among other countries including Nigeria, Laos, Angola, etc. 
 
 Community liasons, in this capacity, play an integral role in delivering risk education and bomb awareness to the local community. They also inform the public of ways to reach MAG/the authorities when they think they might have seen or encounter a potential bomb. 
 
