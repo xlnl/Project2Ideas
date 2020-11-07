@@ -28,11 +28,20 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+Click [here](https://whimsical.com/project-2-erd-KhbbZiC8mwzu58YBH5sGeG) to view the entity-relationship diagram of Safe Streets/Bomb Begone.
+
 ----------------------------------------------------------
 ### User Stories
 
+1. As a user, I want to be able to send a tip in order to let authorities know of a possible unexploded bomb material.
+2. As a user, I want to be able to see other tips within my county and region overall.
+3. As a user, I want to be able to save tips to keep track of any possible updates.
+4. As a user, I want to be able to save tips and have it shown on a map so I can examine the density of the tips within a certain area.
+
 ----------------------------------------------------------
 ### Wireframes
+
+Click [here](https://whimsical.com/project-2-wireframes-4zHBvk17jQoke5LnQgJLHc) to view the wireframes of the Safe Streets/Bomb Begone! 
 
 ----------------------------------------------------------
 
