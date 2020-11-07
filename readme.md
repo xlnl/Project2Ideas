@@ -9,6 +9,21 @@ In the space below:
 * either embed or link a completed ERD for your approved P2 idea
 * if there are any changes/additions to your user stories, place your full set of revised user stories here
 * either embed or link wireframes for every page of your app
+----------------------------------------------------------
+
+### Context: 
+
+This project is contextualized, inspired, and informed by the amazing work that [MAG International](https://www.maginternational.org/what-we-do/where-we-work/vietnam/) does through their community liasons in areas contaminated by unexploded bombs from past conflict/wars. 
+
+I was priviledged to see their work in motion when I was leading a research and community engagement program to Vietnam where we visited a MAG site in the central region near Da Nang City. 
+
+The Vietnam War is over but unexploded bombs and cluster munitions remain to this very day, affecting the lives of children and farmers who live in those areas. 
+
+It's a public health, environmental, and economic challenge to growth in Vietnam, among other counties including Nigeria, Laos, Angola, etc. 
+
+Community liasons, in this capacity, play an integral role in delivering risk education and bomb awareness to the local community. They also inform the public of ways to reach MAG/the authorities when they think they might have seen or encounter a potential bomb. 
+
+This project, another method for users to provide tips by way of a web application, will help support the the efforts of MAG International (and subsequentially the community members at large) to mitigate and manage harm reduction in their own communities.
 
 ----------------------------------------------------------
 ### ERD
@@ -18,9 +33,9 @@ Click [here](https://whimsical.com/project-2-erd-KhbbZiC8mwzu58YBH5sGeG) to view
 ----------------------------------------------------------
 ### User Stories
 
-1. As a user, I want to be able to send a tip in order to let authorities know of a possible unexploded bomb material.
+1. As a user, I want to be able to send a tip in order to let authorities know of a possible unexploded bomb material. I want to be able to edit my tip in case I can provide additional information. 
 2. As a user, I want to be able to see other tips within my county and region overall.
-3. As a user, I want to be able to save tips to keep track of any possible updates.
+3. As a user, I want to be able to see a list of my tips to keep track of any possible updates. 
 4. As a user, I want to be able to save tips and have it shown on a map so I can examine the density of the tips within a certain area.
 
 ----------------------------------------------------------
