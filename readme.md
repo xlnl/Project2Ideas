@@ -10,22 +10,23 @@ In the space below:
 * if there are any changes/additions to your user stories, place your full set of revised user stories here
 * either embed or link wireframes for every page of your app
 ----------------------------------------------------------
+TW: mention of war, bombs 
 
 ### Context: 
-
-This project is contextualized, inspired, and informed by the amazing work that [MAG International](https://www.maginternational.org/what-we-do/where-we-work/vietnam/) does through their community liasons in areas contaminated by unexploded bombs from past conflict/wars. 
-
-I was priviledged to see their work in motion when I was leading a research and community engagement program to Vietnam where we visited a MAG site in the central region near Da Nang City. 
 
 The Vietnam War is over but unexploded bombs and cluster munitions remain to this very day, affecting the lives of children and farmers who live in those areas. 
 
 It's a public health, environmental, and economic challenge to growth in Vietnam, among other countries including Nigeria, Laos, Angola, etc. 
 
+This project is contextualized, inspired, and informed by the amazing work that [MAG International](https://www.maginternational.org/what-we-do/where-we-work/vietnam/) does through their community liasons in areas contaminated by unexploded bombs from past conflict/wars. 
+
+I was priviledged to see their work in motion when I was leading a research and community engagement program to Vietnam where we visited a MAG site in the central region near Da Nang City. 
+
 Community liasons, in this capacity, play an integral role in delivering risk education and bomb awareness to the local community. They also inform the public of ways to reach MAG/the authorities when they think they might have seen or encountered a potential bomb. 
 
-Currently there is a tip hotline for community members to inform about a possible bomb threat. 
+Currently, there is a tip hotline for community members to inform about a possible bomb threat. 
 
-This project, which provides another way for users to create tips by way of a web application, will help expand the reach of MAG International (and subsequentially the community members at large) to mitigate and manage harm reduction in their own communities.
+**Bombs Begone**, which provides another avenue for users to create tips by way of a web application, will help expand the reach of MAG International (and subsequentially the community members at large) to mitigate and manage harm reduction in their own communities.
 
 ----------------------------------------------------------
 ### ERD
