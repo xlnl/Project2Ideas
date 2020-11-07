@@ -21,9 +21,11 @@ The Vietnam War is over but unexploded bombs and cluster munitions remain to thi
 
 It's a public health, environmental, and economic challenge to growth in Vietnam, among other countries including Nigeria, Laos, Angola, etc. 
 
-Community liasons, in this capacity, play an integral role in delivering risk education and bomb awareness to the local community. They also inform the public of ways to reach MAG/the authorities when they think they might have seen or encounter a potential bomb. 
+Community liasons, in this capacity, play an integral role in delivering risk education and bomb awareness to the local community. They also inform the public of ways to reach MAG/the authorities when they think they might have seen or encountered a potential bomb. 
 
-This project, another method for users to provide tips by way of a web application, will help support the the efforts of MAG International (and subsequentially the community members at large) to mitigate and manage harm reduction in their own communities.
+Currently there is a tip hotline for community members to inform about a possible bomb threat. 
+
+This project, which provides another way for users to create tips by way of a web application, will help expand the reach of MAG International (and subsequentially the community members at large) to mitigate and manage harm reduction in their own communities.
 
 ----------------------------------------------------------
 ### ERD
