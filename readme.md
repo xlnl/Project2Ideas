@@ -14,7 +14,7 @@ TW: mention of war, bombs
 
 ### Context: 
 
-The Vietnam War is over but unexploded bombs and cluster munitions remain to this very day, disproportionaly affecting the lives of people in areas that bear the burden of bombs decades past.
+The Vietnam War is over but unexploded bombs and cluster munitions remain to this very day, disproportionately affecting the lives of people in areas that bear the burden of bombs decades past.
 
 It's a public health, environmental, and economic challenge to growth in Vietnam, among other countries including Nigeria, Laos, Angola, etc. 
 
